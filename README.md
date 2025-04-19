@@ -1,4 +1,4 @@
-# AWS-Serverless-Architecture-Exercise
+# Automation-of-AWS-Services-Using-Python-boto3
 
 Assignment 1.  Automated Instance Management Using AWS Lambda and Boto3
 
